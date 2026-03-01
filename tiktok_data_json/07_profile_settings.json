@@ -1,0 +1,104 @@
+{
+  "Profile And Settings": {
+    "AI-Moji": {
+      "CreateDate": "",
+      "AIMojiList": null
+    },
+    "AISelfImage": {},
+    "Autofill": {
+      "PhoneNumber": "N/A",
+      "Email": "N/A",
+      "FirstName": "N/A",
+      "LastName": "N/A",
+      "Address": "N/A",
+      "ZipCode": "N/A",
+      "Unit": "N/A",
+      "City": "N/A",
+      "State": "N/A",
+      "Country": "N/A"
+    },
+    "Block List": {
+      "App": 1,
+      "BlockList": [
+        {
+          "Date": "2025-07-17 10:05:51",
+          "UserName": "popvilshop"
+        },
+        {
+          "Date": "2025-06-15 23:24:44",
+          "UserName": "samtupy"
+        },
+        {
+          "Date": "2025-06-15 23:24:28",
+          "UserName": "samuel.tupy"
+        },
+        {
+          "Date": "2025-03-27 17:44:15",
+          "UserName": ".1abloommedia"
+        }
+      ]
+    },
+    "Off TikTok Activity": {
+      "OffTikTokActivityDataList": null
+    },
+    "Profile Info": {
+      "App": 1,
+      "ProfileMap": {
+        "PlatformInfo": [],
+        "accountRegion": "US",
+        "aiSelf": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de031c73634bcaf479bd04c03f67dc97~tplv-tiktokx-cropcenter:720:720.webp?dr=9640&refresh_token=01a47a18&x-expires=1772488800&x-signature=D0ix6qlUUmNc9jyoqa0lJVi%2Fi4c%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=7996dd0b&idc=useast5",
+        "bioDescription": "Mom of 3 - 3 and ⬇️ \n🛍️ Sharing my favorite TTS deals\n💌 htupycollabs@gmail.com",
+        "birthDate": "05-Aug-1995",
+        "displayName": "haileytupy2.0",
+        "emailAddress": "htupycollabs@gmail.com",
+        "followerCount": 5012,
+        "followingCount": 3552,
+        "inferredGender": "None",
+        "instagramLink": "",
+        "lemon8Link": "",
+        "likesReceived": "16443",
+        "profilePhoto": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de031c73634bcaf479bd04c03f67dc97~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=bf8668f6&x-expires=1772488800&x-signature=i0EL3FzCCCFRIPb854LKb4rnXJ8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=7996dd0b&idc=useast5",
+        "profileVideo": "None",
+        "telephoneNumber": "None",
+        "userName": "haileytupy2.0",
+        "youtubeLink": ""
+      }
+    },
+    "ProfileViews": {
+      "ProfileViewList": null
+    },
+    "Settings": {
+      "App": 1,
+      "SettingsMap": {
+        "Allow DownLoad": "Everyone",
+        "Allow Others to Find Me": "Disabled",
+        "Allow Reuse of Content": "Everyone",
+        "App Language": "English",
+        "Content Preferences": {
+          "Keyword filters for videos in Following feed": [],
+          "Keyword filters for videos in For You feed": [],
+          "Video Languages Preferences": []
+        },
+        "Family Content Preferences": {},
+        "Filter Comments": "Disabled",
+        "Interests": "Comedy|Music",
+        "Private Account": "Disabled",
+        "Push Notification": {
+          "Desktop notification": "Default",
+          "New Comments on My Video": "Default",
+          "New Fans": "Default",
+          "New Likes on My Video": "Default"
+        },
+        "Suggest your account to Facebook friends": "disabled",
+        "Suggest your account to contacts": "disabled",
+        "Suggest your account to people who open or send links to you": "enabled",
+        "Web Language": "N/A",
+        "Who Can Duet With Me": "Everyone",
+        "Who Can Post Comments": "Everyone",
+        "Who Can Send Me Message": "Everyone",
+        "Who Can Stitch with your videos": "Everyone",
+        "Who Can View Videos I Liked": "Myself"
+      }
+    }
+  }
+}
